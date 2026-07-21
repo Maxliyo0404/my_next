@@ -3,8 +3,8 @@ import React from 'react'
 export default function Header() {
   return (
     <div className=''>
-        <div className="container  flex items-center justify-between bg-blue-950">
-            <a href="#">Logo</a>
+        <div className="container  flex items-center justify-between bg-blue-950 py-7">
+            <a href="#" className='text-white text-3xl'>Logo</a>
             <ul className='flex items-center gap-4 text-2xl text-white'>
                 <li><Link href="/about">About</Link></li>
                 <li><Link href="/contact">Contact</Link></li>
