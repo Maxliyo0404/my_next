@@ -2,7 +2,7 @@ import Link from 'next/link'
 import React from 'react'
 export default function Header() {
   return (
-    <div>
+    <div className='flex items-center justify-between'>
         <div className="container">
             <a href="#">Logo</a>
             <ul>
