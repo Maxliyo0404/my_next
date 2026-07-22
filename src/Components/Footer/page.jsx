@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <div className='w-full h-auto bg-black'>
-        <h1 className='text-white'>Footer qismi</h1>
+        <h1 className='text-white text-4xl'>Footer qismi</h1>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel sint aspernatur, quaerat rem animi totam omnis ea cum facilis nobis.</p>
     </div>
   )
