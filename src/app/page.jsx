@@ -1,5 +1,5 @@
 import React from 'react'
-import hero from ""
+import hero from "../Components/hero"
 export default function Home() {
   return (
     <div>
