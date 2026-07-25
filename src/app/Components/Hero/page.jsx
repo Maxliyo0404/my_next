@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Hero() {
-  const
+  const [name, setName] =
   return (
     <div className='w-full bg-gray-900 h-auto'>
         <h1 className='text-4xl text-white'>hero start</h1>
