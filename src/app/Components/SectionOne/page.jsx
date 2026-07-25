@@ -1,9 +1,9 @@
 import React from 'react'
 
-function page() {
+function SectionOnepage() {
   return (
     <div className='sectionOne'></div>
   )
 }
 
-export default page
+export default SectionOnepage
