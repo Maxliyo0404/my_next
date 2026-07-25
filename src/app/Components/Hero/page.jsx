@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 export default function Hero() {
-  const [name, setName] = useState();
+  const [name, setName] = useState('');
   const handChange = (newNme)=>{
 setName(newNme);
   }
