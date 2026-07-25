@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 
 export default function Hero() {
   const [name, setName] = useState();
-  const handChange = (setName)=>{
-    
+  const handChange = (name)=>{
+
   }
   return (
     <div className='w-full bg-gray-900 h-auto'>
